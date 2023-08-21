@@ -1,7 +1,7 @@
 # FIRE-GAME
-🔥 Welcome to the Firefighter Plane Rescue Game repository!
+🔥 Welcome to the Firefighter Plane Rescue Game repository
 
-🔥 This game was a course project at UD
+🔥 This game was a class project at UD in Introduction to Python
  
  In this game, you take on the responsibility of controlling a nimble firefighter plane equipped with a water tank. Your objective is to put out as many   fires as possible and prevent the flames from consuming the entire forest. With a bird's-eye view of the forest, you must strategically maneuver your plane to drop water over the hotspots, effectively dousing the flames and preventing the fire from spreading further.
  

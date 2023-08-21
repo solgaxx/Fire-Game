@@ -13,7 +13,7 @@ The game keeps track of the number of fires you've successfully stopped. Each ex
 
 # INSTALLATION
 To experience this game, follow these simple steps:
-- Clone or download the repository to your local machine.
-- Ensure you have Python installed.
-- Run the main game script (my_fire_game_final.py) using your preferred Python interpreter.
-- Enjoy the thrill of saving the forest and battling the flames!
+1. Clone or download the repository to your local machine.
+2. Ensure you have Python installed.
+3. Run the main game script (my_fire_game_final.py) using your preferred Python interpreter.
+4. Enjoy the thrill of saving the forest and battling the flames!
